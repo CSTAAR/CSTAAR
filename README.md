@@ -24,7 +24,7 @@ The project addresses both terrestrial and underwater contexts, with a strong em
   (e.g., digitization of analog documentation, data processing, GIS workflows)
 
 - **EO-based analysis** for site detection and environmental context  
-  (Sentinel-2, EnMAP, LULC, OBIA, SDB, seabed classification)
+  (Sentinel-2, EnMAP, LULC, Object/Site Detection, OBIA, SDB, seabed classification)
 
 - **Machine learning pipelines** for pattern recognition and segmentation
 
