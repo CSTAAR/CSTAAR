@@ -48,9 +48,8 @@ The project addresses both terrestrial and underwater contexts, with a strong em
 
 This repository serves as a central hub. You’ll find links to subprojects and tools developed under the CSTAAR initiative:
 
-- `stratigraphy-digitization` – automated extraction of stratigraphic units from scanned profiles  
-- `EO-analysis-tools` – scripts for satellite-based analysis (NDVI, SDB, seabed classification)  
-- `3D-processing-pipeline` – tools for post-processing 3D models and linking them to spatial data  
+https://github.com/CSTAAR/Automated_Micro-section_drawing_digitalization
+
 - ...and more coming soon.
 
 ---
