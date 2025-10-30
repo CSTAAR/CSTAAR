@@ -1,6 +1,6 @@
 # CSTAAR (Computational Solutions for Terrestrial and Aquatic Archaeological Research)
 
-**CSTAAR** is an independent research initiative focused on enhancing and streamlining digital workflows in archaeology through programming, computational tools, and emerging technologies.  
+**CSTAAR** is an independent research initiative of Filip Hájek focused on enhancing and streamlining digital workflows in archaeology through programming, computational tools, and emerging technologies.  
 
 ---
 
@@ -54,24 +54,9 @@ https://github.com/CSTAAR/Automated_Micro-section_drawing_digitalization
 
 ---
 
-## Get Involved
-
-CSTAAR is an open and evolving initiative.  
-I am currently looking for:
-
-- **Collaborators** (individual or institutional)  
-- **Research partnerships**  
-- **Funding opportunities** to further develop EO-based methodologies
-
-If you’re interested in data-driven archaeology or looking for computational solutions to your project, feel free to get in touch.
-
----
-
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/...)  
-- [Email](mailto:your@email.com)  
-- [GitHub Repositories](https://github.com/yourusername)
+- Email: filipp.hajek@gmail.com
 
 ---
 
